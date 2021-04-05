@@ -1,0 +1,1 @@
+exec node ace migration:run --force
