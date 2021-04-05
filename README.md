@@ -2,7 +2,7 @@
 
 ## How to run
 
-Copie o .env.example e adicione as crednecias do S3 amazon no seu .env
+Copie o .env.example e adicione as crednecias do S3 amazon para upload de arquivos e adicione as credenciais de SMTP no seu .env
 
 Rode `docker-compose up --build`
 
