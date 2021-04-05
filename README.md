@@ -2,7 +2,7 @@
 
 ## How to run
 
-Adicione as crednecias do S3 amazon no seu .env
+Copie o .env.example e adicione as crednecias do S3 amazon no seu .env
 
 Rode `docker-compose up --build`
 
